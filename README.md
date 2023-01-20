@@ -2,7 +2,7 @@
 
 ### 실행 버전 : Python 3.7
 
-#### face ID with Open-Cv Python
+#### Face ID with Open-cv Python
 
 #### 전제 조건 : Web Cam 필요
 
