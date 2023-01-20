@@ -13,13 +13,13 @@
 ### 실행 프로세스▶
 
 
-== Step 1️⃣ 
+**Step** 1️⃣ 
 
 
 Put them in a single folder. Create a folder name faces.
 
 
-== Step 2️⃣
+**Step** 2️⃣
 
 
 First, run Facial_Recognition_Part1.py. 
@@ -31,13 +31,13 @@ It will take your 100-copy picture for training the machine.
 The photos will be stored in the faces folder.
 
 
-== Step 3️⃣
+**Step** 3️⃣
 
 
 Then run the Facial_Recognition_Part2.py. This is to train your machine.
 
 
-== Step 4️⃣
+**Step** 4️⃣
 
 
 Then run the Facial_Recognition_Part3.py.
