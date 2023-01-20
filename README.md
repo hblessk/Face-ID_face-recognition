@@ -4,11 +4,15 @@
 
 #### Face ID with Open-Cv Python
 
-#### 전제 조건 : Web Cam 필요
+
+#### Web Cam 필요
 
 
 
-### 실행 프로세스
+
+### ▶실행 프로세스▶
+
+
 == Step 1️⃣ 
 
 
